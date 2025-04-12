@@ -20,6 +20,12 @@ A curated list of the best frontend developer jobs, updated daily.
 | Company | Corporate Account Executive; SMB | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/0d9decaca6524d1a9c2e399b88bdcb97?utm=github) |
 | Speechify Inc | Senior iOS Engineer | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/5ef8760f30d040f68749cbc90a9fadd4?utm=github) |
 | The Judge Group | Manufacturing Engineer | 📍 Syracuse, NY | Apr 12 | [Apply](https://starjobs.dev/jobs/1c651e4dee214bdc87b947d1304a73ff?utm=github) |
+| Sira Consulting, an Inc 5000 company | Quality Engineer | 📍 New York, NY | Apr 12 | [Apply](https://starjobs.dev/jobs/abc5f1f910e542989ca5571403b7f096?utm=github) |
+| MultiTech Trades Corp. | Data Analyst Remote | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/dfec02a6ef884b868cf53af9b7fbe9c8?utm=github) |
+| Sharp Resources | Executive Search Consultant | 📍 London Area, United Kingdom | Apr 11 | [Apply](https://starjobs.dev/jobs/aa21dc96d9784168a2dad930f9cad86c?utm=github) |
+| Cosmic Partners | Account Executive (£60k - £70k base x 2 OTE) | 📍 London Area, United Kingdom | Apr 11 | [Apply](https://starjobs.dev/jobs/784760c4e56843daaf4c803db49255e8?utm=github) |
+| Integra Connect | BI Developer | 📍 United States | Apr 11 | [Apply](https://starjobs.dev/jobs/ee83351b81714ece8132ec666899a41d?utm=github) |
+| Juniper Networks | Software Engineer 3- Layer-2 Protocol Development | 📍 Bengaluru, Karnataka, India | Apr 11 | [Apply](https://starjobs.dev/jobs/e5013722efdf4e1aa026d8e5e8f25b8c?utm=github) |
 
 
 ## About This List
@@ -32,9 +38,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
 * [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
 * [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
+* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
 * [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
