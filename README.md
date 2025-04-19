@@ -6,25 +6,22 @@ A curated list of the best frontend developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Jackbox Games | Front-End Engineer (1-3 YoE) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/a6841dd998e2465b9ea07baa161d59ad?utm=github) |
-| La Fosse | Junior Frontend Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/f491ce34aaed449294a072da6932b992?utm=github) |
-| Optimy | Front End Software Engineer PHP | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/653d6262def345ecab2b0f4be7f08a6c?utm=github) |
-| Soar Global Pte. Ltd. | Frontend Engineering Manager | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/2dfa742c40dc49a59fdc117b7c044f66?utm=github) |
-| Quest Software | Frontend UI Developer | 📍 Slovakia | Apr 14 | [Apply](https://starjobs.dev/jobs/895f6feb55404d0c9215e7dc18b5da7e?utm=github) |
-| SOLID.Jobs | Programista front-end | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/ddd20b2c28e64ee89c9a1cd7143c2eb5?utm=github) |
-| Wiraa | Sr. Java Full Stack Engineer ( with Angular) 💰 | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/dc0a86223a0c42c0a36b4eb4417e0811?utm=github) |
-| Virtusa | React developer | 📍 Bangalore Urban, Karnataka, India | Apr 14 | [Apply](https://starjobs.dev/jobs/bfa0797a741a4002acdc11e6dedab62e?utm=github) |
-| Checkout.com | Frontend Engineer | 📍 London, England, United Kingdom | Apr 14 | [Apply](https://starjobs.dev/jobs/f4a74f38615c408d950c1deda7177cdc?utm=github) |
-| Native Teams | Marketing Frontend Developer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/3cc2a4e64ce94e2dbfbd8b23733e958f?utm=github) |
-| Schneider Electric | React Frontend Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/ad5c25c1d1ba480aae5ec3c7a27f156a?utm=github) |
-| Kforce Inc | Front End Developer - Styling | 📍 San Francisco, CA | Apr 14 | [Apply](https://starjobs.dev/jobs/7febe2e1a8d045ecacb34396acd3e5a9?utm=github) |
-| Garaje de ideas \| Groupe EDG | FrontEnd Developer (Vue) | 📍 Spain | Apr 14 | [Apply](https://starjobs.dev/jobs/57ea5a3cba9b4f4da80b6eb522916034?utm=github) |
-| SimplyAnalytics | Senior Frontend Developer | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/0f3c10f9521a4f93894a313f8d1018c9?utm=github) |
-| Mimo GmbH | Senior Backend Developer — Typescript | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/503333e0f2bd4031afe361f95e0106af?utm=github) |
+| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/43e43f1505bd4920a8cba6c12022b21f?utm=github) |
+| Wiraa | Sr. Frontend Engineer II (GenAI) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/1b8a858486b941ba816da9ed475841c8?utm=github) |
+| Constructor | Javascript Engineer : Customer Integrations (Remote - Americas) 💰 | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/5bd47559440f44d4813293fd56a56a9d?utm=github) |
+| JAKALA | Senior Frontend Developer (all genders) - React | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/857562cad24f4e6e84aa78029edd368b?utm=github) |
+| Randstad Japan | Fully Remote  Frontend Engineer Full flex | 📍 Greater Tokyo Area | Apr 17 | [Apply](https://starjobs.dev/jobs/297cbad0654c471cbe6005cf86adacbf?utm=github) |
+| Gluo | Software Developer — Full-Stack JavaScript - Talent Pool | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/fec0d10748fa40658118bcff056d14f4?utm=github) |
+| Moffett Automation | Frontend Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/83f7c637419946359e09f7dfc93bf078?utm=github) |
+| Meraki Talent | Full Stack Software Engineer (C# / .NET / React) | 📍 Nottingham, England, United Kingdom | Apr 17 | [Apply](https://starjobs.dev/jobs/f8388fd2eb3f4e84af3e6e60bb6158d8?utm=github) |
+| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/f7886531f8b94ed78db940f02d89d36f?utm=github) |
+| Virtual Identity | Senior Frontend Engineer (German-Speaking) (m/f/x) | 📍 Germany | Apr 15 | [Apply](https://starjobs.dev/jobs/b14b38f55ec94ad48bad93611d9f7662?utm=github) |
+| Launchmetrics | Fullstack Software Engineer PHP / React | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c926b60f81724350b2d484638a86a06c?utm=github) |
+| NTT DATA Europe & Latam | Desarrollador Frontend Angular | 📍 Arequipa, Peru | Apr 15 | [Apply](https://starjobs.dev/jobs/100edbb637e74145a823f7a026ee440f?utm=github) |
 
 
 ## About This List
@@ -37,9 +34,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
 * [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
+* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
