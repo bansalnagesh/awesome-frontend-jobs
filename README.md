@@ -6,22 +6,25 @@ A curated list of the best frontend developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/43e43f1505bd4920a8cba6c12022b21f?utm=github) |
-| Wiraa | Sr. Frontend Engineer II (GenAI) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/1b8a858486b941ba816da9ed475841c8?utm=github) |
-| Constructor | Javascript Engineer : Customer Integrations (Remote - Americas) 💰 | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/5bd47559440f44d4813293fd56a56a9d?utm=github) |
-| JAKALA | Senior Frontend Developer (all genders) - React | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/857562cad24f4e6e84aa78029edd368b?utm=github) |
-| Randstad Japan | Fully Remote  Frontend Engineer Full flex | 📍 Greater Tokyo Area | Apr 17 | [Apply](https://starjobs.dev/jobs/297cbad0654c471cbe6005cf86adacbf?utm=github) |
-| Gluo | Software Developer — Full-Stack JavaScript - Talent Pool | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/fec0d10748fa40658118bcff056d14f4?utm=github) |
-| Moffett Automation | Frontend Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/83f7c637419946359e09f7dfc93bf078?utm=github) |
-| Meraki Talent | Full Stack Software Engineer (C# / .NET / React) | 📍 Nottingham, England, United Kingdom | Apr 17 | [Apply](https://starjobs.dev/jobs/f8388fd2eb3f4e84af3e6e60bb6158d8?utm=github) |
-| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/f7886531f8b94ed78db940f02d89d36f?utm=github) |
-| Virtual Identity | Senior Frontend Engineer (German-Speaking) (m/f/x) | 📍 Germany | Apr 15 | [Apply](https://starjobs.dev/jobs/b14b38f55ec94ad48bad93611d9f7662?utm=github) |
-| Launchmetrics | Fullstack Software Engineer PHP / React | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c926b60f81724350b2d484638a86a06c?utm=github) |
-| NTT DATA Europe & Latam | Desarrollador Frontend Angular | 📍 Arequipa, Peru | Apr 15 | [Apply](https://starjobs.dev/jobs/100edbb637e74145a823f7a026ee440f?utm=github) |
+| idealista | Frontend Developer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/bd204781009e43f3982524697ba5971d?utm=github) |
+| Metyis | SFCC Frontend Developer | 📍 Bengaluru, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/45f22034c14c4946b7b21e922ba8c28e?utm=github) |
+| Profile Software Services | Desarrollador/a FullStack (Java Angular) | 📍 Madrid, Community of Madrid, Spain | Apr 21 | [Apply](https://starjobs.dev/jobs/eb1774284b68476a88bdf16fe07b4505?utm=github) |
+| buerolersch | JavaScript-Entwickler:in | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/582152e50e5f47168242bda5fa8533aa?utm=github) |
+| G2i Inc. | Front End Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/8f0a362dc108499c9dac9486e4ab89d0?utm=github) |
+| Decskill España | 🚀Fullstack Developer - Java/Angular \| España 100% remoto 🚀 | 📍 Spain | Apr 21 | [Apply](https://starjobs.dev/jobs/da4e9fad36d740448a47f0513b28cc26?utm=github) |
+| Wiraa | WordPress & React Developer | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/ce46581b581c49eca2603846425bfb4d?utm=github) |
+| Digify | Remote Frontend Engineer 202505 | 📍 Malaysia | Apr 21 | [Apply](https://starjobs.dev/jobs/4ea9d0fc095c43d49aff9646708e1e88?utm=github) |
+| Digify | Remote Frontend Engineer 202505 | 📍 Sri Lanka | Apr 21 | [Apply](https://starjobs.dev/jobs/7862044ec1d7446caa489dcfa10aab1f?utm=github) |
+| Digify | Remote Frontend Engineer 202505 | 📍 Taiwan | Apr 21 | [Apply](https://starjobs.dev/jobs/053130085d5b4fc7b2d65497acf03a87?utm=github) |
+| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/9dcc19f9c1704b538ed1152bbcf76522?utm=github) |
+| G2i Inc. | Front End Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/b519170530294d83adeede671971f8d3?utm=github) |
+| Digify | Remote Frontend Engineer 202505 | 📍 Indonesia | Apr 21 | [Apply](https://starjobs.dev/jobs/ccee5d9aac0649328b4348d3f649a2b4?utm=github) |
+| G2i Inc. | FrontEnd Software Engineer for Training AI Data | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/b6dcd2f27a8f4c69b034026dcab6741a?utm=github) |
+| Cloudflare | Frontend Engineer, UI Platform | 📍 Greater London, England, United Kingdom | Apr 20 | [Apply](https://starjobs.dev/jobs/592d2438a52b4e39bca2141f9ddcb173?utm=github) |
 
 
 ## About This List
@@ -34,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
 * [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
 * [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
